@@ -1852,6 +1852,7 @@ pre code {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto
+    width: 100px;
 }
 
 .row {
@@ -2116,11 +2117,11 @@ pre code {
     }
 
     .col-sm-3 {
-        width: 25%
+        width: 30%
     }
 
     .col-sm-2 {
-        width: 16.66666667%
+        width: 28%
     }
 
     .col-sm-1 {
@@ -2706,6 +2707,7 @@ pre code {
 
 table {
     background-color: transparent
+    width: auto;
 }
 
 caption {
