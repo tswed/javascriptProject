@@ -3,8 +3,9 @@ var calendar;
 var th;
 
 function loadPageInfo() {
-    //loadTopBibles();
+    //loadSalesTables();
     loadCalendar();
+    loadSalesTables();
 }
 
 function loadCalendar() {
@@ -124,19 +125,8 @@ function daysInMonth(calendarDay) {
     return dayCount[thisMonth];  //return the number of days in the month
 }
 
-function loadTopBibles() {
-    var mysql = require('mysql');
+function loadSalesTables() {
+    //Do something with sales variable here
+    //Like load the tables
 
-    var connection = mysql.createConnection({
-        host: 'peak.crossway.local',
-        user: 'tswed',
-        password: 'sKC7vVvPuxWe7fnaO6DcucAU',
-        database: 'gnpcb'
-    });
-
-    connection.connect();
-
-    connection.query('select * from', function(err, result) {
-        //result is the query results
-    });
 }

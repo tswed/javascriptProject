@@ -107,4 +107,13 @@ body {
   border-radius: 50%;
 }
 
+#calendar_table    {
+     border-width: 5px; margin: 0px 0px 20px 5px}
 
+#calendar_head     {text-align: center; letter-spacing: 2px}
+
+.calendar_weekdays {width: 30px; font-size: 8pt;  border-bottom-style: solid}
+
+.calendar_dates    {text-align: center;}
+
+#calendar_today    {font-weight: bold; color: #CC6600;}
