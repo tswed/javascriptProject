@@ -9,6 +9,10 @@ function startSignInForm() {
 }
 
 function checkSignInCredentials() {
+    if (document.getElementById("rememberMe").checked == true) {
+
+    }
+
     if (document.getElementById("inputUserName").value == "tswed" &&
         document.getElementById("inputPassword").value == "crossway1300") {
         return true;
@@ -16,4 +20,6 @@ function checkSignInCredentials() {
         alert("Incorrect UserName/Password, please try again");
         return false;
     }
+
+
 }
