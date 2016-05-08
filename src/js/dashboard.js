@@ -2,12 +2,42 @@ window.onload = loadPageInfo;
 var calendar;
 var th;
 
+
 function loadPageInfo() {
-    //loadSalesTables();
     loadCalendar();
     loadSalesTables();
+    createChart();
 }
 
+function createChart() {
+    var ctx = document.getElementById("myChart");
+    var myChart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: [
+                "Red",
+                "Green",
+                "Yellow"
+            ],
+            datasets: [
+                {
+                    data: [300, 50, 100],
+                    backgroundColor: [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56"
+                    ],
+                    hoverBackgroundColor: [
+                        "#FF6384",
+                        "#36A2EB",
+                        "#FFCE56"
+                    ]
+                }]
+        }
+    });
+
+    ctx.appendChild(myChart);
+}
 function loadCalendar() {
     var calDate = new Date();
 
@@ -126,7 +156,70 @@ function daysInMonth(calendarDay) {
 }
 
 function loadSalesTables() {
-    //Do something with sales variable here
-    //Like load the tables
+    var bibleTable = document.createElement("table");
+    var bookTable = document.createElement("table");
+    bibleTable.className = "table table-striped";
+    bookTable.className = "table table-striped";
 
+    bibleTable.appendChild(createHeader());
+    bookTable.appendChild(createHeader());
+
+    var bookRowNum = 0;
+    var bibleRowNum = 0;
+    var i = 0;
+
+    while (bibleRowNum < 10) {
+        var tr = document.createElement("tr");
+        var titleData = document.createElement("td");
+        titleData.innerHTML = sales[i].Title;
+
+        var isbnData = document.createElement("td");
+        isbnData.innerHTML = sales[i].ISBN;
+
+        var netUnitsData = document.createElement("td");
+        netUnitsData.innerHTML = sales[i].Net_Units;
+
+        var netSalesData = document.createElement("td");
+        netSalesData.innerHTML = sales[i].Net_Sales;
+
+        tr.appendChild(titleData);
+        tr.appendChild(isbnData);
+        tr.appendChild(netUnitsData);
+        tr.appendChild(netSalesData);
+
+        if (sales[i++].Type == "Bible") {
+            bibleTable.appendChild(tr);
+            bibleRowNum++;
+        } else if (bookRowNum < 10) {
+            bookTable.appendChild(tr);
+            bookRowNum++;
+        }
+    }
+
+    document.getElementById("bibleDashboardTable").appendChild(bibleTable);
+    document.getElementById("bookDashboardTable").appendChild(bookTable);
 }
+
+function createHeader() {
+    var rowHead = document.createElement("tr");
+
+    var title = document.createElement("th");
+    title.innerHTML = "Title";
+
+    var isbn = document.createElement("th");
+    isbn.innerHTML = "ISBN";
+
+    var netUnits = document.createElement("th");
+    netUnits.innerHTML = "Net Units";
+
+    var netSales = document.createElement("th");
+    netSales.innerHTML = "Net Sales";
+
+    rowHead.appendChild(title);
+    rowHead.appendChild(isbn);
+    rowHead.appendChild(netUnits);
+    rowHead.appendChild(netSales);
+
+    return rowHead;
+}
+

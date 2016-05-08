@@ -117,3 +117,29 @@ body {
 .calendar_dates    {text-align: center;}
 
 #calendar_today    {font-weight: bold; color: #CC6600;}
+
+.table-responsive {
+    table-layout: fixed;
+}
+.table-responsive tr:nth-child(even) {
+    background-color: #F0F0F0;
+}
+
+#bibleDashboardTable th:nth-child(1){
+    width: 450px;
+}
+
+#bookDashboardTable th:nth-child(1){
+    width: 450px;
+}
+#bibleChart {
+    height: 400px;
+    width: 500px;
+    margin-left: 20%;
+    margin-right: auto;
+    display: block;
+}
+
+
+
+

@@ -2829,12 +2829,11 @@ table td[class*=col-], table th[class*=col-] {
 
 .table-responsive {
     min-height: .01%;
-    overflow-x: auto
+    overflow-x: hidden
 }
 
 @media screen and (max-width: 767px) {
     .table-responsive {
-        width: 100%;
         margin-bottom: 15px;
         overflow-y: hidden;
         -ms-overflow-style: -ms-autohiding-scrollbar;
