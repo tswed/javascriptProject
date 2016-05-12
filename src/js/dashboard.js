@@ -2,42 +2,11 @@ window.onload = loadPageInfo;
 var calendar;
 var th;
 
-
 function loadPageInfo() {
     loadCalendar();
     loadSalesTables();
-    createChart();
 }
 
-function createChart() {
-    var ctx = document.getElementById("myChart");
-    var myChart = new Chart(ctx, {
-        type: 'pie',
-        data: {
-            labels: [
-                "Red",
-                "Green",
-                "Yellow"
-            ],
-            datasets: [
-                {
-                    data: [300, 50, 100],
-                    backgroundColor: [
-                        "#FF6384",
-                        "#36A2EB",
-                        "#FFCE56"
-                    ],
-                    hoverBackgroundColor: [
-                        "#FF6384",
-                        "#36A2EB",
-                        "#FFCE56"
-                    ]
-                }]
-        }
-    });
-
-    ctx.appendChild(myChart);
-}
 function loadCalendar() {
     var calDate = new Date();
 

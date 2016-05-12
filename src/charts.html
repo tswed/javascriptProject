@@ -4,8 +4,11 @@
     <title>Sales Charts</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/dashboard.css" rel="stylesheet">
-    <script type="text/javascript" src="js/CrosswaySales.js"></script>
     <script type="text/javascript" src="js/dashboard.js"></script>
+    <script type="text/javascript" src="js/CrosswaySales.js"></script>
+    <script type="text/javascript" src="js/myCharts.js"></script>
+    <script src="chart1.js/dist/Chart.bundle.js"></script>
+
 </head>
 
 <body>
@@ -22,14 +25,17 @@
         <div class="col-sm-3 col-md-2 sidebar" id="calendarSpot">
             <ul class="nav nav-sidebar">
                 <li><a href="dashboard.html">Overview</a></li>
-                <li><a href="snapshot.html">Snapshot Report</a></li>
                 <li class="active"><a href="charts.html">Charts</a></li>
             </ul>
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
             <h1 class="page-header">Top Sales</h1>
-
-            <h2 class="sub-header">Bibles</h2>
+            <h2 class="sub-header">Bible Sales by Category</h2>
+        </div>
+        <div id="bibleChart">
+            <canvas id="topBibles"></canvas>
+            <h2 class="sub-header">Sales by Account</h2>
+            <canvas id="topAccounts"></canvas>
         </div>
     </div>
 </div>

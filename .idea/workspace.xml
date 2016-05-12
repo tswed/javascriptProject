@@ -2,131 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eeeb899-f435-4bd4-9363-ac9bba9291e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/dist/Chart.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/dist/Chart.bundle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/dist/Chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/dist/Chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/docs/00-Getting-Started.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/docs/01-Scales.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/docs/02-Line-Chart.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/docs/03-Bar-Chart.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/docs/04-Radar-Chart.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/docs/05-Polar-Area-Chart.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/docs/06-Pie-Doughnut-Chart.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/docs/07-Advanced.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/docs/08-Notes.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/AnimationCallbacks/progress-bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/bar-horizontal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/bar-multi-axis.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/bar-stacked.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/bubble.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/combo-bar-line.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/data_label_combo-bar-line.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/different-point-sizes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/doughnut.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/line-customTooltips.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/line-legend.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/line-logarithmic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/line-multi-axis.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/line-skip-points.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/line-stacked-area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/line-x-axis-filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/line.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/pie-customTooltips.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/pie.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/polar-area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/radar-skip-points.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/radar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/scatter-logX.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/scatter-multi-axis.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/scatter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/timeScale/combo-time-scale.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/timeScale/line-time-point-data.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/timeScale/line-time-scale.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/tooltip-hooks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/zoom-bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/zoom-log.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/zoom-time.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/zoom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/samples/zoom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/charts/Chart.Bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/charts/Chart.Bubble.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/charts/Chart.Doughnut.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/charts/Chart.Line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/charts/Chart.PolarArea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/charts/Chart.Radar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/charts/Chart.Scatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/controllers/controller.bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/controllers/controller.bubble.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/controllers/controller.doughnut.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/controllers/controller.line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/controllers/controller.polarArea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/controllers/controller.radar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.datasetController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.layoutService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.legend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.scale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.scaleService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.title.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/core/core.tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/elements/element.arc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/elements/element.line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/elements/element.point.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/elements/element.rectangle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/scales/scale.category.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/scales/scale.linear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/scales/scale.logarithmic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/scales/scale.radialLinear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/src/scales/scale.time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/controller.bar.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/controller.bubble.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/controller.doughnut.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/controller.line.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/controller.polarArea.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/controller.radar.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/core.element.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/core.helpers.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/core.layoutService.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/core.legend.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/core.plugin.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/core.title.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/defaultConfig.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/element.arc.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/element.line.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/element.point.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/element.rectangle.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/mockContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/scale.category.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/scale.linear.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/scale.logarithmic.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/scale.radialLinear.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chart1.js/test/scale.time.tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements/element.arc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements/element.line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements/element.point.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/elements/element.rectangle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/cookies.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/apple-touch-icon.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/js/charts.js" afterPath="$PROJECT_DIR$/src/js/myCharts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/javascriptProject.iml" afterPath="$PROJECT_DIR$/.idea/javascriptProject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/snapshot.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/src/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/charts.html" afterPath="$PROJECT_DIR$/src/charts.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/dashboard.css" afterPath="$PROJECT_DIR$/src/css/dashboard.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dashboard.html" afterPath="$PROJECT_DIR$/src/dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/CrosswaySales.js" afterPath="$PROJECT_DIR$/src/js/CrosswaySales.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/cookies.js" afterPath="$PROJECT_DIR$/src/js/cookies.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/dashboard.js" afterPath="$PROJECT_DIR$/src/js/dashboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/index.js" afterPath="$PROJECT_DIR$/src/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/myCharts.js" afterPath="$PROJECT_DIR$/src/js/myCharts.js" />
     </list>
     <ignored path="javascriptProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -150,38 +33,18 @@
       <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.375">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state vertical-scroll-proportion="-8.25">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
+      <file leaf-file-name="charts.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/charts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.5">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.277078">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cookies.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/cookies.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.6965174">
+              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -191,8 +54,20 @@
         <entry file="file://$PROJECT_DIR$/src/js/dashboard.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myCharts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/myCharts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#39#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -200,18 +75,8 @@
       <file leaf-file-name="dashboard.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/dashboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.083334">
-              <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CrosswaySales.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/CrosswaySales.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="114" selection-start-line="6" selection-start-column="114" selection-end-line="6" selection-end-column="114" />
+            <state vertical-scroll-proportion="-15.125">
+              <caret line="139" column="23" selection-start-line="139" selection-start-column="23" selection-end-line="139" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -243,16 +108,17 @@
         <option value="$PROJECT_DIR$/src/js/SalesInfo" />
         <option value="$PROJECT_DIR$/src/js/charts.js" />
         <option value="$PROJECT_DIR$/src/snapshot.html" />
-        <option value="$PROJECT_DIR$/src/charts.html" />
         <option value="$PROJECT_DIR$/src/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/src/js/CrosswaySales.js" />
         <option value="$PROJECT_DIR$/src/chartTest.html" />
-        <option value="$PROJECT_DIR$/src/dashboard.html" />
-        <option value="$PROJECT_DIR$/src/css/dashboard.css" />
-        <option value="$PROJECT_DIR$/src/js/dashboard.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/js/cookies.js" />
         <option value="$PROJECT_DIR$/src/js/index.js" />
+        <option value="$PROJECT_DIR$/src/js/cookies.js" />
+        <option value="$PROJECT_DIR$/src/js/dashboard.js" />
+        <option value="$PROJECT_DIR$/src/dashboard.html" />
+        <option value="$PROJECT_DIR$/src/js/myCharts.js" />
+        <option value="$PROJECT_DIR$/src/charts.html" />
+        <option value="$PROJECT_DIR$/src/css/dashboard.css" />
       </list>
     </option>
   </component>
@@ -291,6 +157,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -345,15 +222,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascriptProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascriptProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -383,7 +267,7 @@
       <recent name="$PROJECT_DIR$/src/css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.charts.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptProject/src/index.html">
       <method />
     </configuration>
@@ -394,6 +278,9 @@
       <method />
     </configuration>
     <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src/js">
+      <method />
+    </configuration>
+    <configuration default="false" name="charts.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptProject/src/charts.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -407,13 +294,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
@@ -451,18 +331,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.html" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.dashboard.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.charts.html" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.index.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.dashboard.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.charts.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.index.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.dashboard.js" />
       </list>
     </recent_temporary>
   </component>
@@ -481,18 +363,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57709926" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35114503" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35114503" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39694658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3957382" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -500,6 +381,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57709926" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -516,15 +398,41 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="27" />
+      <option name="time" value="31" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/snapshot.html">
+    <entry file="file://$PROJECT_DIR$/src/charts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/myCharts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -547,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,14 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/snapshot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -592,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -607,14 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/snapshot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -637,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,26 +572,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/snapshot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.0">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36198348">
           <caret line="173" column="18" selection-start-line="173" selection-start-column="13" selection-end-line="173" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/charts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.125">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,18 +600,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/myCharts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.075566754">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chart1.js/src/core/core.scale.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,7 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,15 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chart1.js/samples/bar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -834,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17355372">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,9 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,17 +695,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/dashboard.css">
+    <entry file="file://$PROJECT_DIR$/src/js/cookies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.083334">
-          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.98569155">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -870,30 +709,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="114" selection-start-line="6" selection-start-column="114" selection-end-line="6" selection-end-column="114" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dashboard.html">
+    <entry file="file://$PROJECT_DIR$/src/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding />
+        <state vertical-scroll-proportion="-10.625">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/cookies.js">
+    <entry file="file://$PROJECT_DIR$/src/chart1.js/samples/bar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.25">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -901,15 +744,33 @@
     <entry file="file://$PROJECT_DIR$/src/js/dashboard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index.js">
+    <entry file="file://$PROJECT_DIR$/src/js/myCharts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.277078">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.125">
+          <caret line="139" column="23" selection-start-line="139" selection-start-column="23" selection-end-line="139" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/charts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6965174">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
           <folding />
         </state>
       </provider>
